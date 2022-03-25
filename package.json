@@ -1,0 +1,33 @@
+{
+  "name": "eskisehir-haller-surucu-kursu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.0",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/google-gtag": "^1.0.4",
+    "@nuxtjs/proxy": "^2.1.0",
+    "@vuejs-community/vue-filter-date-format": "^1.6.3",
+    "core-js": "^3.6.5",
+    "filter-obj": "^2.0.1",
+    "firebase": "^8.2.5",
+    "js-cookie": "^2.2.1",
+    "md5": "^2.3.0",
+    "nuxt": "^2.14.6",
+    "queue-microtask": "^1.2.2",
+    "slugify": "^1.4.6",
+    "vue2-editor": "^2.10.2",
+    "vuejs-jwt": "^1.1.0",
+    "vuelidate": "^0.7.6"
+  },
+  "devDependencies": {
+    "@nuxt/types": "~2.14.0",
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
